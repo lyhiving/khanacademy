@@ -1,4 +1,4 @@
-application: khanexercises
+application: khan-staging
 version: 402
 runtime: python
 api_version: 1

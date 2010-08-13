@@ -61,7 +61,7 @@ def main():
         call_args = [options.appcfg,
                      '--url=%s' % options.url,
                      '--email=%s' % options.email,
-                     '--application=khanexercises',
+                     '--application=khan-staging',
                      '--kind=%s' % kind,
                      '--filename=%s' % filename]
         if options.email == parser.get_option('--email').default:
